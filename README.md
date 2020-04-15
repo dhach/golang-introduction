@@ -1,5 +1,7 @@
 # golang-introduction
 
+![Build all](https://github.com/dhach/golang-introduction/workflows/Build%20all/badge.svg)
+
 ## General
 
 This is a repository which includes some basic and some slightly advanced topics on how to write Go code.
